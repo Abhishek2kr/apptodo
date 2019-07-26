@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apptodo/static/css/main.34de6062.chunk.css",
+    "main.js": "/apptodo/static/js/main.8519f774.chunk.js",
+    "main.js.map": "/apptodo/static/js/main.8519f774.chunk.js.map",
+    "runtime~main.js": "/apptodo/static/js/runtime~main.6ea82fc7.js",
+    "runtime~main.js.map": "/apptodo/static/js/runtime~main.6ea82fc7.js.map",
+    "static/js/2.f649222c.chunk.js": "/apptodo/static/js/2.f649222c.chunk.js",
+    "static/js/2.f649222c.chunk.js.map": "/apptodo/static/js/2.f649222c.chunk.js.map",
+    "index.html": "/apptodo/index.html",
+    "precache-manifest.e816f0d423366a5606853358dda8b6bb.js": "/apptodo/precache-manifest.e816f0d423366a5606853358dda8b6bb.js",
+    "service-worker.js": "/apptodo/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/apptodo/static/css/main.34de6062.chunk.css.map"
+  }
+}
